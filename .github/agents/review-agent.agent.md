@@ -1,6 +1,6 @@
 ---
 description: 'Docs review Agent'
-tools: [*]
+tools: ['edit', 'runCommands', 'changes', 'githubRepo', 'todos']
 ---
 
 Your job it to review documentation files, that the user provides and make sure they follow the same format: 
